@@ -23,7 +23,7 @@
 ![](./screenshot.jpg)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Stats Preview Card Component](https://kishh14.github.io/Stats-preview-card-Frontend-Mentor-coding-challenge-/)
 
 ## My process
 
